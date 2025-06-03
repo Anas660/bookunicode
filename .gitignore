@@ -22,7 +22,6 @@ urdubook-461717-ddd77fdd7905.json
 
 # IDE specific files
 .idea/
-.vscode/
 *.sublime-project
 *.sublime-workspace
 
@@ -57,3 +56,7 @@ data/
 *.tiff
 *.tif
 *.docx
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
