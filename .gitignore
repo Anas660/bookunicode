@@ -1,4 +1,4 @@
-echo "# Dependencies
+# Dependencies
 node_modules/
 npm-debug.log
 yarn-error.log
@@ -17,13 +17,14 @@ out/
 .env.test.local
 .env.production.local
 durable-ring-417222-f688fca3d66f.json
+urdubook-461717-ddd77fdd7905.json
+*.json
 
 # IDE specific files
 .idea/
 .vscode/
 *.sublime-project
 *.sublime-workspace
-
 
 # OS generated files
 .DS_Store
@@ -43,4 +44,16 @@ coverage/
 
 # Temporary files
 tmp/
-temp/" > .gitignore
+temp/
+
+# Data files
+data/
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.docx

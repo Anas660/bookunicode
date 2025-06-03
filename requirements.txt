@@ -1,0 +1,7 @@
+google-cloud-vision
+python-docx
+PyPDF2
+Pillow
+opencv-python
+pytesseract
+```

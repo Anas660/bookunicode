@@ -1,0 +1,5 @@
+input_pdf_path: "data/input_pdfs/"
+temp_images_path: "data/temp_images/"
+output_docx_path: "data/output_docx/"
+language_hints:
+  - "ur"
